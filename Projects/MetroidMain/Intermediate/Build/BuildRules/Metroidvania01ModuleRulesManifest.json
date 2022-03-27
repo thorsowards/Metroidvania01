@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\OuterProjects\\2Bit\\Metroidvania01\\Source\\Metroidvania01\\Metroidvania01.Build.cs",
-		"D:\\OuterProjects\\2Bit\\Metroidvania01\\Source\\Metroidvania01.Target.cs",
-		"D:\\OuterProjects\\2Bit\\Metroidvania01\\Source\\Metroidvania01Editor.Target.cs"
+		"C:\\Users\\Thor\\Documents\\Unreal Projects\\Metroidvania01\\Projects\\MetroidMain\\Source\\Metroidvania01\\Metroidvania01.Build.cs",
+		"C:\\Users\\Thor\\Documents\\Unreal Projects\\Metroidvania01\\Projects\\MetroidMain\\Source\\Metroidvania01.Target.cs",
+		"C:\\Users\\Thor\\Documents\\Unreal Projects\\Metroidvania01\\Projects\\MetroidMain\\Source\\Metroidvania01Editor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }
