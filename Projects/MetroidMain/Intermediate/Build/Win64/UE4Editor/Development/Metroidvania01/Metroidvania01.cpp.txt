@@ -1,0 +1,2 @@
+D:\OuterProjects\2Bit\Metroidvania01\Intermediate\Build\Win64\UE4Editor\Development\Metroidvania01\Definitions.Metroidvania01.h
+d:\outerprojects\2bit\metroidvania01\source\metroidvania01\Metroidvania01.h

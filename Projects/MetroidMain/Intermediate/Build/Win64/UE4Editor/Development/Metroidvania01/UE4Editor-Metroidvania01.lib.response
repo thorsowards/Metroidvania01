@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Metroidvania01.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\OuterProjects\2Bit\Metroidvania01\Intermediate\Build\Win64\Metroidvania01Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\OuterProjects\2Bit\Metroidvania01\Intermediate\Build\Win64\UE4Editor\Development\Metroidvania01\Metroidvania01.cpp.obj"
+"D:\OuterProjects\2Bit\Metroidvania01\Intermediate\Build\Win64\UE4Editor\Development\Metroidvania01\Metroidvania01GameModeBase.cpp.obj"
+"D:\OuterProjects\2Bit\Metroidvania01\Intermediate\Build\Win64\UE4Editor\Development\Metroidvania01\Metroidvania01.init.gen.cpp.obj"
+"D:\OuterProjects\2Bit\Metroidvania01\Intermediate\Build\Win64\UE4Editor\Development\Metroidvania01\Metroidvania01GameModeBase.gen.cpp.obj"
+"D:\OuterProjects\2Bit\Metroidvania01\Intermediate\Build\Win64\UE4Editor\Development\Metroidvania01\Default.rc2.res"
+/OUT:"D:\OuterProjects\2Bit\Metroidvania01\Intermediate\Build\Win64\UE4Editor\Development\Metroidvania01\UE4Editor-Metroidvania01.lib"

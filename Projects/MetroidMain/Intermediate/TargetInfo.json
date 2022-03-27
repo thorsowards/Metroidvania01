@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Metroidvania01",
+			"Path": "D:\\OuterProjects\\2Bit\\Metroidvania01\\Source\\Metroidvania01.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Metroidvania01Editor",
+			"Path": "D:\\OuterProjects\\2Bit\\Metroidvania01\\Source\\Metroidvania01Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

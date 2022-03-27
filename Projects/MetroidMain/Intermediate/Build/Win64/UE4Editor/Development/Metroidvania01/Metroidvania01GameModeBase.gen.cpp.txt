@@ -1,0 +1,9 @@
+D:\OuterProjects\2Bit\Metroidvania01\Intermediate\Build\Win64\UE4Editor\Development\Metroidvania01\Definitions.Metroidvania01.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\OuterProjects\2Bit\Metroidvania01\Source\Metroidvania01/Metroidvania01GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+d:\outerprojects\2bit\metroidvania01\intermediate\build\win64\ue4editor\inc\metroidvania01\Metroidvania01GameModeBase.generated.h
